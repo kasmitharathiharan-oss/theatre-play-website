@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="program.xsl"?>
+
+<!DOCTYPE theatreMenu SYSTEM "program.dtd">
+
+<theatreMenu>
+
+    <theatreName> The Crescent Playhouse</theatreName>
+
+    <menuItem>
+    <name>Chicken Caesar Salad</name>
+    <category>Starter</category>
+    <description>Fresh lettuce, grilled chicken, parmesan and caesar dressing.</description>
+    <price>£10.00</price>
+    </menuItem>
+
+    <menuItem>
+    <name>Classic Cheeseburger</name>
+    <category>Main Course</category>
+    <description>Beef burger served with cheese, lettuce, tomato and chips.</description>
+    <price>£12.50</price>
+    </menuItem>
+
+    <menuItem>
+    <name>Margherita Pizza</name>
+    <category>Main Course</category>
+    <description>Stone-baked pizza with tomato, mozzarella, and fresh basil.</description>
+    <price>£11.50</price>
+    </menuItem>
+
+    <menuItem>
+    <name>Chocolate Brownies</name>
+    <category>Dessert</category>
+    <description>Warm chocolate brownies served with vanilla ice cream.</description>
+    <price>£6.50</price>
+    </menuItem>
+
+    <menuItem>
+    <name>Soft Drink</name>
+    <category>Drink</category>
+    <description>Choice of Coca-Cola, Fanta, Diet Coke or Sprite.</description>
+    <price>£1.99</price>
+    </menuItem>
+
+</theatreMenu>
+
+

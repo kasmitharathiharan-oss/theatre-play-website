@@ -1,0 +1,10 @@
+<!ELEMENT theatreMenu (theatreName, menuItem+)>
+
+<!ELEMENT theatreName (#PCDATA)>
+
+<!ELEMENT menuItem (name, category, description, price)>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
